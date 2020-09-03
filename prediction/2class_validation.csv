@@ -1,0 +1,11 @@
+,2class_prediction,prob_class-1,prob_class1,ID,Activated Formula
+0,1,0.3,0.7,1,[Al4(OH)2(OCH3)4(H2N-bdc)3]
+1,1,0.025,0.975,2,[Cd2(TBA)2(bipy)(DMA)2]
+2,1,0.125,0.875,3,[La2(pyzdc)3(H2O)4]
+3,1,0.15,0.85,4,[Mn2(OH)Cl2(bbta)]
+4,1,0.275,0.725,5,Fe(OH)(bdc)
+5,1,0.175,0.825,6,Al(O5C6H2)(OH)
+6,1,0.05,0.95,7,Na2(OOCCH(OH)PO3H)(H2O)4
+7,1,0.2,0.8,8,Zr6(OH)4(OH)4(L)4
+8,1,0.175,0.825,9,Zr6(OH)4O4(TCP-3)3DMF30(H2O)10
+9,1,0.225,0.775,10,(Cu4Cl)(BTBA)8((CH3)2NH2)(H2O)12
